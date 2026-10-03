@@ -1,0 +1,9 @@
+VM Configuration
+
+Hypervisor: UTM
+Guest OS: Ubuntu
+Architecture: ARM64 (aarch64)
+CPU: 4 virtual CPUs
+Memory: Approximately 6 GB
+Network: NAT
+Project: Performance Analysis of Virtual Machines and Containers

@@ -1,0 +1,199 @@
+Connecting to host 192.168.64.6, port 5201
+[  5] local 192.168.64.6 port 49966 connected to 192.168.64.6 port 5201
+[  7] local 192.168.64.6 port 49980 connected to 192.168.64.6 port 5201
+[  9] local 192.168.64.6 port 49994 connected to 192.168.64.6 port 5201
+[ 11] local 192.168.64.6 port 50008 connected to 192.168.64.6 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  8.60 GBytes  73.7 Gbits/sec    0   3.25 MBytes       
+[  7]   0.00-1.00   sec  8.32 GBytes  71.3 Gbits/sec    0   1.37 MBytes       
+[  9]   0.00-1.00   sec  8.39 GBytes  71.9 Gbits/sec    0   1.94 MBytes       
+[ 11]   0.00-1.00   sec  8.32 GBytes  71.3 Gbits/sec    1   2.69 MBytes       
+[SUM]   0.00-1.00   sec  33.6 GBytes   288 Gbits/sec    1             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]   1.00-2.00   sec  7.94 GBytes  68.3 Gbits/sec    0   3.25 MBytes       
+[  7]   1.00-2.00   sec  8.34 GBytes  71.7 Gbits/sec    0   1.37 MBytes       
+[  9]   1.00-2.00   sec  8.44 GBytes  72.6 Gbits/sec    0   1.94 MBytes       
+[ 11]   1.00-2.00   sec  8.16 GBytes  70.2 Gbits/sec    0   2.69 MBytes       
+[SUM]   1.00-2.00   sec  32.9 GBytes   283 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]   2.00-3.00   sec  8.37 GBytes  71.9 Gbits/sec    1   3.25 MBytes       
+[  7]   2.00-3.00   sec  8.61 GBytes  74.0 Gbits/sec    0   1.37 MBytes       
+[  9]   2.00-3.00   sec  8.73 GBytes  75.0 Gbits/sec    0   1.94 MBytes       
+[ 11]   2.00-3.00   sec  8.40 GBytes  72.1 Gbits/sec    0   2.69 MBytes       
+[SUM]   2.00-3.00   sec  34.1 GBytes   293 Gbits/sec    1             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]   3.00-4.00   sec  7.84 GBytes  67.4 Gbits/sec    0   3.25 MBytes       
+[  7]   3.00-4.00   sec  8.01 GBytes  68.8 Gbits/sec    0   1.37 MBytes       
+[  9]   3.00-4.00   sec  8.17 GBytes  70.2 Gbits/sec    0   1.94 MBytes       
+[ 11]   3.00-4.00   sec  7.80 GBytes  67.0 Gbits/sec    0   2.69 MBytes       
+[SUM]   3.00-4.00   sec  31.8 GBytes   273 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]   4.00-5.00   sec  8.22 GBytes  70.6 Gbits/sec    0   3.25 MBytes       
+[  7]   4.00-5.00   sec  8.39 GBytes  72.0 Gbits/sec    0   1.37 MBytes       
+[  9]   4.00-5.00   sec  8.41 GBytes  72.2 Gbits/sec    0   1.94 MBytes       
+[ 11]   4.00-5.00   sec  8.13 GBytes  69.9 Gbits/sec    0   2.69 MBytes       
+[SUM]   4.00-5.00   sec  33.2 GBytes   285 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]   5.00-6.00   sec  8.29 GBytes  71.2 Gbits/sec    0   3.25 MBytes       
+[  7]   5.00-6.00   sec  8.36 GBytes  71.8 Gbits/sec    1   1.37 MBytes       
+[  9]   5.00-6.00   sec  8.53 GBytes  73.3 Gbits/sec    0   1.94 MBytes       
+[ 11]   5.00-6.00   sec  8.20 GBytes  70.4 Gbits/sec    0   2.69 MBytes       
+[SUM]   5.00-6.00   sec  33.4 GBytes   287 Gbits/sec    1             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]   6.00-7.00   sec  8.15 GBytes  70.0 Gbits/sec    0   3.25 MBytes       
+[  7]   6.00-7.00   sec  8.37 GBytes  71.9 Gbits/sec    0   1.37 MBytes       
+[  9]   6.00-7.00   sec  8.41 GBytes  72.2 Gbits/sec    0   1.94 MBytes       
+[ 11]   6.00-7.00   sec  8.18 GBytes  70.3 Gbits/sec    0   2.69 MBytes       
+[SUM]   6.00-7.00   sec  33.1 GBytes   284 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]   7.00-8.00   sec  8.19 GBytes  70.3 Gbits/sec    0   3.25 MBytes       
+[  7]   7.00-8.00   sec  8.32 GBytes  71.5 Gbits/sec    0   1.37 MBytes       
+[  9]   7.00-8.00   sec  8.37 GBytes  71.9 Gbits/sec    0   1.94 MBytes       
+[ 11]   7.00-8.00   sec  8.09 GBytes  69.5 Gbits/sec    0   2.69 MBytes       
+[SUM]   7.00-8.00   sec  33.0 GBytes   283 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]   8.00-9.00   sec  8.11 GBytes  69.6 Gbits/sec    0   3.25 MBytes       
+[  7]   8.00-9.00   sec  8.30 GBytes  71.3 Gbits/sec    0   1.37 MBytes       
+[  9]   8.00-9.00   sec  8.34 GBytes  71.6 Gbits/sec    0   1.94 MBytes       
+[ 11]   8.00-9.00   sec  8.05 GBytes  69.1 Gbits/sec    0   2.69 MBytes       
+[SUM]   8.00-9.00   sec  32.8 GBytes   282 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]   9.00-10.00  sec  8.06 GBytes  69.2 Gbits/sec    0   3.25 MBytes       
+[  7]   9.00-10.00  sec  8.25 GBytes  70.8 Gbits/sec    0   1.37 MBytes       
+[  9]   9.00-10.00  sec  8.27 GBytes  71.0 Gbits/sec    0   1.94 MBytes       
+[ 11]   9.00-10.00  sec  8.03 GBytes  69.0 Gbits/sec    0   2.69 MBytes       
+[SUM]   9.00-10.00  sec  32.6 GBytes   280 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]  10.00-11.00  sec  7.98 GBytes  68.6 Gbits/sec    0   3.25 MBytes       
+[  7]  10.00-11.00  sec  8.22 GBytes  70.6 Gbits/sec    0   1.37 MBytes       
+[  9]  10.00-11.00  sec  8.24 GBytes  70.8 Gbits/sec    0   1.94 MBytes       
+[ 11]  10.00-11.00  sec  7.93 GBytes  68.1 Gbits/sec    0   2.69 MBytes       
+[SUM]  10.00-11.00  sec  32.4 GBytes   278 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]  11.00-12.00  sec  7.95 GBytes  68.3 Gbits/sec    0   3.25 MBytes       
+[  7]  11.00-12.00  sec  8.18 GBytes  70.3 Gbits/sec    0   1.37 MBytes       
+[  9]  11.00-12.00  sec  8.19 GBytes  70.3 Gbits/sec    0   1.94 MBytes       
+[ 11]  11.00-12.00  sec  7.90 GBytes  67.9 Gbits/sec    0   2.69 MBytes       
+[SUM]  11.00-12.00  sec  32.2 GBytes   277 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]  12.00-13.00  sec  7.93 GBytes  68.2 Gbits/sec    0   3.25 MBytes       
+[  7]  12.00-13.00  sec  8.12 GBytes  69.8 Gbits/sec    0   1.37 MBytes       
+[  9]  12.00-13.00  sec  8.20 GBytes  70.4 Gbits/sec    0   1.94 MBytes       
+[ 11]  12.00-13.00  sec  7.90 GBytes  67.8 Gbits/sec    0   2.69 MBytes       
+[SUM]  12.00-13.00  sec  32.1 GBytes   276 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]  13.00-14.00  sec  7.92 GBytes  68.1 Gbits/sec    0   3.25 MBytes       
+[  7]  13.00-14.00  sec  8.12 GBytes  69.8 Gbits/sec    0   1.37 MBytes       
+[  9]  13.00-14.00  sec  8.13 GBytes  69.8 Gbits/sec    0   1.94 MBytes       
+[ 11]  13.00-14.00  sec  7.89 GBytes  67.7 Gbits/sec    0   2.69 MBytes       
+[SUM]  13.00-14.00  sec  32.1 GBytes   275 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]  14.00-15.00  sec  7.85 GBytes  67.4 Gbits/sec    0   3.25 MBytes       
+[  7]  14.00-15.00  sec  8.02 GBytes  68.9 Gbits/sec    0   1.37 MBytes       
+[  9]  14.00-15.00  sec  8.09 GBytes  69.5 Gbits/sec    0   1.94 MBytes       
+[ 11]  14.00-15.00  sec  7.81 GBytes  67.1 Gbits/sec    0   2.69 MBytes       
+[SUM]  14.00-15.00  sec  31.8 GBytes   273 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]  15.00-16.00  sec  7.84 GBytes  67.3 Gbits/sec    0   3.25 MBytes       
+[  7]  15.00-16.00  sec  8.05 GBytes  69.1 Gbits/sec    0   1.37 MBytes       
+[  9]  15.00-16.00  sec  8.10 GBytes  69.6 Gbits/sec    0   1.94 MBytes       
+[ 11]  15.00-16.00  sec  7.83 GBytes  67.3 Gbits/sec    0   2.69 MBytes       
+[SUM]  15.00-16.00  sec  31.8 GBytes   273 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]  16.00-17.00  sec  7.82 GBytes  67.2 Gbits/sec    0   3.25 MBytes       
+[  7]  16.00-17.00  sec  8.02 GBytes  68.9 Gbits/sec    0   1.37 MBytes       
+[  9]  16.00-17.00  sec  8.05 GBytes  69.2 Gbits/sec    0   1.94 MBytes       
+[ 11]  16.00-17.00  sec  7.78 GBytes  66.9 Gbits/sec    0   2.69 MBytes       
+[SUM]  16.00-17.00  sec  31.7 GBytes   272 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]  17.00-18.00  sec  7.74 GBytes  66.5 Gbits/sec    0   3.25 MBytes       
+[  7]  17.00-18.00  sec  7.99 GBytes  68.6 Gbits/sec    0   1.37 MBytes       
+[  9]  17.00-18.00  sec  8.03 GBytes  68.9 Gbits/sec    0   1.94 MBytes       
+[ 11]  17.00-18.00  sec  7.71 GBytes  66.3 Gbits/sec    0   2.69 MBytes       
+[SUM]  17.00-18.00  sec  31.5 GBytes   270 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]  18.00-19.00  sec  7.70 GBytes  66.1 Gbits/sec    0   3.25 MBytes       
+[  7]  18.00-19.00  sec  7.96 GBytes  68.4 Gbits/sec    0   1.37 MBytes       
+[  9]  18.00-19.00  sec  7.96 GBytes  68.4 Gbits/sec    0   1.94 MBytes       
+[ 11]  18.00-19.00  sec  7.71 GBytes  66.2 Gbits/sec    0   2.69 MBytes       
+[SUM]  18.00-19.00  sec  31.3 GBytes   269 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]  19.00-20.00  sec  6.72 GBytes  57.8 Gbits/sec    0   3.25 MBytes       
+[  7]  19.00-20.00  sec  6.97 GBytes  59.8 Gbits/sec    0   1.37 MBytes       
+[  9]  19.00-20.00  sec  7.08 GBytes  60.8 Gbits/sec    0   1.94 MBytes       
+[ 11]  19.00-20.00  sec  6.84 GBytes  58.7 Gbits/sec    0   2.69 MBytes       
+[SUM]  19.00-20.00  sec  27.6 GBytes   237 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]  20.00-21.00  sec  7.60 GBytes  65.3 Gbits/sec    0   3.25 MBytes       
+[  7]  20.00-21.00  sec  7.91 GBytes  67.9 Gbits/sec    0   1.37 MBytes       
+[  9]  20.00-21.00  sec  7.93 GBytes  68.1 Gbits/sec    0   1.94 MBytes       
+[ 11]  20.00-21.00  sec  7.67 GBytes  65.9 Gbits/sec    0   2.69 MBytes       
+[SUM]  20.00-21.00  sec  31.1 GBytes   267 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]  21.00-22.00  sec  7.61 GBytes  65.4 Gbits/sec    0   3.25 MBytes       
+[  7]  21.00-22.00  sec  7.84 GBytes  67.4 Gbits/sec    0   1.37 MBytes       
+[  9]  21.00-22.00  sec  7.89 GBytes  67.8 Gbits/sec    0   1.94 MBytes       
+[ 11]  21.00-22.00  sec  7.63 GBytes  65.6 Gbits/sec    0   2.69 MBytes       
+[SUM]  21.00-22.00  sec  31.0 GBytes   266 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]  22.00-23.00  sec  7.59 GBytes  65.2 Gbits/sec    0   3.25 MBytes       
+[  7]  22.00-23.00  sec  7.90 GBytes  67.8 Gbits/sec    0   1.37 MBytes       
+[  9]  22.00-23.00  sec  7.91 GBytes  67.9 Gbits/sec    0   1.94 MBytes       
+[ 11]  22.00-23.00  sec  7.64 GBytes  65.6 Gbits/sec    0   2.69 MBytes       
+[SUM]  22.00-23.00  sec  31.0 GBytes   267 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]  23.00-24.00  sec  7.56 GBytes  64.9 Gbits/sec    0   3.25 MBytes       
+[  7]  23.00-24.00  sec  7.86 GBytes  67.5 Gbits/sec    0   1.37 MBytes       
+[  9]  23.00-24.00  sec  7.89 GBytes  67.7 Gbits/sec    0   1.94 MBytes       
+[ 11]  23.00-24.00  sec  7.62 GBytes  65.4 Gbits/sec    0   2.69 MBytes       
+[SUM]  23.00-24.00  sec  30.9 GBytes   266 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]  24.00-25.00  sec  7.53 GBytes  64.7 Gbits/sec    0   3.25 MBytes       
+[  7]  24.00-25.00  sec  7.88 GBytes  67.7 Gbits/sec    0   1.37 MBytes       
+[  9]  24.00-25.00  sec  7.83 GBytes  67.2 Gbits/sec    0   1.94 MBytes       
+[ 11]  24.00-25.00  sec  7.61 GBytes  65.4 Gbits/sec    0   2.69 MBytes       
+[SUM]  24.00-25.00  sec  30.8 GBytes   265 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]  25.00-26.00  sec  7.52 GBytes  64.6 Gbits/sec    0   3.25 MBytes       
+[  7]  25.00-26.00  sec  7.83 GBytes  67.3 Gbits/sec    0   1.37 MBytes       
+[  9]  25.00-26.00  sec  7.83 GBytes  67.3 Gbits/sec    0   1.94 MBytes       
+[ 11]  25.00-26.00  sec  7.63 GBytes  65.5 Gbits/sec    0   2.69 MBytes       
+[SUM]  25.00-26.00  sec  30.8 GBytes   265 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]  26.00-27.00  sec  7.52 GBytes  64.6 Gbits/sec    0   3.25 MBytes       
+[  7]  26.00-27.00  sec  7.80 GBytes  67.0 Gbits/sec    0   1.37 MBytes       
+[  9]  26.00-27.00  sec  7.84 GBytes  67.4 Gbits/sec    0   1.94 MBytes       
+[ 11]  26.00-27.00  sec  7.63 GBytes  65.6 Gbits/sec    0   2.69 MBytes       
+[SUM]  26.00-27.00  sec  30.8 GBytes   265 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]  27.00-28.00  sec  7.51 GBytes  64.5 Gbits/sec    0   3.25 MBytes       
+[  7]  27.00-28.00  sec  7.83 GBytes  67.2 Gbits/sec    0   1.37 MBytes       
+[  9]  27.00-28.00  sec  7.82 GBytes  67.2 Gbits/sec    0   1.94 MBytes       
+[ 11]  27.00-28.00  sec  7.62 GBytes  65.4 Gbits/sec    0   2.69 MBytes       
+[SUM]  27.00-28.00  sec  30.8 GBytes   264 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]  28.00-29.00  sec  7.50 GBytes  64.4 Gbits/sec    0   3.25 MBytes       
+[  7]  28.00-29.00  sec  7.79 GBytes  66.9 Gbits/sec    0   1.37 MBytes       
+[  9]  28.00-29.00  sec  7.78 GBytes  66.9 Gbits/sec    0   1.94 MBytes       
+[ 11]  28.00-29.00  sec  7.57 GBytes  65.0 Gbits/sec    0   2.69 MBytes       
+[SUM]  28.00-29.00  sec  30.6 GBytes   263 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]  29.00-30.00  sec  7.43 GBytes  63.8 Gbits/sec    0   3.25 MBytes       
+[  7]  29.00-30.00  sec  7.77 GBytes  66.7 Gbits/sec    0   1.37 MBytes       
+[  9]  29.00-30.00  sec  7.80 GBytes  66.9 Gbits/sec    0   1.94 MBytes       
+[ 11]  29.00-30.00  sec  7.60 GBytes  65.2 Gbits/sec    0   2.69 MBytes       
+[SUM]  29.00-30.00  sec  30.6 GBytes   263 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-30.00  sec   235 GBytes  67.2 Gbits/sec    1            sender
+[  5]   0.00-30.00  sec   235 GBytes  67.2 Gbits/sec                  receiver
+[  7]   0.00-30.00  sec   241 GBytes  69.1 Gbits/sec    1            sender
+[  7]   0.00-30.00  sec   241 GBytes  69.1 Gbits/sec                  receiver
+[  9]   0.00-30.00  sec   243 GBytes  69.5 Gbits/sec    0            sender
+[  9]   0.00-30.00  sec   243 GBytes  69.5 Gbits/sec                  receiver
+[ 11]   0.00-30.00  sec   235 GBytes  67.2 Gbits/sec    1            sender
+[ 11]   0.00-30.00  sec   235 GBytes  67.2 Gbits/sec                  receiver
+[SUM]   0.00-30.00  sec   953 GBytes   273 Gbits/sec    3             sender
+[SUM]   0.00-30.00  sec   953 GBytes   273 Gbits/sec                  receiver
+
+iperf Done.

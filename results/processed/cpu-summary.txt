@@ -1,0 +1,25 @@
+CPU PERFORMANCE SUMMARY
+
+Workload:
+Sysbench CPU prime calculation
+
+Parameters:
+CPU max prime = 20000
+Threads = 4
+Duration = 30 seconds
+Number of runs = 10
+
+VM (UTM Ubuntu):
+Average events/sec = 17715.44
+Minimum = 16095.94
+Maximum = 19510.70
+Standard deviation = 1173.70
+
+Docker Container:
+Average events/sec = 16239.41
+Minimum = 14916.33
+Maximum = 17475.35
+Standard deviation = 811.11
+
+Difference:
+Docker average throughput was approximately 8.33% lower than VM average throughput.
